@@ -1,0 +1,49 @@
+Adminp.css
+.btn1{
+    margin-top: 20px;
+    margin-left:180px;
+    display: flex;
+    float: left;
+    padding-top: 10px;
+    padding-left:90px;
+}
+.btn{
+    width: 160px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-top: 40px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+
+
+}
+.btn:hover{
+    background: #fff;
+    color: #ff7200;
+}
+.btn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.apara{
+    margin-left: 30%;
+    margin-top: 10%;
+    font-family: cursive;
+    color:black;
+    line-height: 25px;
+    letter-spacing: 1.1px;
+    font-size: 40px;
+    font-weight:bold;
+}
+hr{
+
+
+    margin-right: 50px;
+    margin-top: 10px;
+    border:2px solid #ff7200;
+}
